@@ -1,0 +1,1 @@
+export default 'https://razor-server.herokuapp.com';
